@@ -9,7 +9,7 @@ function Navbar() {
 
         <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
             <Link to="/" className={location.pathname === "/" ? "nav-link active navbar-brand" : "nav-link navbar-brand"}>
-                    Reading Rainbow
+                    JJ's E-Library
           </Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
