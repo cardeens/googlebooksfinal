@@ -1,6 +1,6 @@
 # googlebooksfinal
 
-This is a MERN stack app that uses the Google Books API and MongoDB, and is deployed with Heroku. 
+This is a React (MERN) app that uses the Google Books API to search for books and MongoDB to save titles. The app is deployed with Heroku. 
 
 Users can use this app to quickly search for titles in the Google Books library. Once the user finds a book they are interested in, they can save the search result which will add the title to the Saved tab using MongoDB. The user can then access the book information later, or remove the book from their saved options.
 
